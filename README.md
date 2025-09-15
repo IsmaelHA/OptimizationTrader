@@ -1,6 +1,10 @@
-# SentientTrader
+# OptimizationTrader
 
-> **SentientTrader** is an AI-driven trading framework that evolves from simple technical strategies to advanced deep learning and reinforcement learning models for research and educational purposes.
+> **OptimizationTrader** is an AI-driven trading framework that evolves from simple technical strategies to advanced deep learning and reinforcement learning models for research and educational purposes.
+
+## Disclaimer
+
+This project is for **educational and research purposes only**. Trading involves substantial risk of loss. Do not use the code for live trading without thorough testing and understanding of risks. The author is **not responsible for any financial losses**.
 
 ---
 
@@ -19,7 +23,7 @@
 
 ## Project Overview
 
-SentientTrader is designed to combine classical technical analysis with AI models such as RNNs, LLMs, and Reinforcement Learning to create a modular and extensible trading bot framework.
+OptimizationTrader is designed to combine classical technical analysis with AI models such as RNNs, LLMs, and Reinforcement Learning to create a modular and extensible trading bot framework.
 
 The project aims to provide hands-on experience in:
 
@@ -36,7 +40,7 @@ The project aims to provide hands-on experience in:
 2. **Phase 2:** Implement RNN/LSTM models to forecast short-term price movements.
 3. **Phase 3:** Integrate LLM-based sentiment analysis from news and social media.
 4. **Phase 4:** Reinforcement Learning agents for position sizing and portfolio optimization.
-5. **Phase 5:** Hybrid ensemble models combining TA, RNN, LLM, and RL outputs for smarter decision-making.
+5. **Phase 5:** Hybrid ensemble models combining signals from TA, RNN, LLM, and RL for smarter decision-making.
 
 ---
 
@@ -54,8 +58,8 @@ The project aims to provide hands-on experience in:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/SentientTrader.git
-cd SentientTrader
+git clone https://github.com/yourusername/OptimizationTrader.git
+cd OptimizationTrader
 
 # Create a virtual environment
 python -m venv venv
@@ -104,6 +108,3 @@ python phase1_trading_bot.py --symbol AAPL --execute
 
 ---
 
-## Disclaimer
-
-This project is for **educational and research purposes only**. Trading involves substantial risk of loss. Do not use the code for live trading without thorough testing and understanding of risks. The author is **not responsible for any financial losses**.
